@@ -7,7 +7,7 @@
       height: 100vh;
       background-color: hsl(212, 45%, 89%);
       justify-content: center;
-      display: flexbox;
+      display: flex;
       flex-direction: column;
       align-items: center;
       position: relative;
@@ -24,7 +24,7 @@
       width: 310px;
       height: 310px;
       margin-top: 15px;
-      display: flexbox;
+      
       position: relative;
     }
     h1{
