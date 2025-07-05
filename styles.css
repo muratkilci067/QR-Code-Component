@@ -1,4 +1,4 @@
-    .attribution { font-size: 0.6875rem; text-align: center; margin-block-start: 25px; }
+    .attribution { font-size: clamp(0.625rem, 1.5vw, 0.70rem); text-align: center; margin-block-start: 25px; }
     .attribution a { color: hsl(228, 45%, 44%); }
     *,
     *::before,
@@ -19,7 +19,7 @@
     .container{
       text-align: center;
       background-color: white;
-      max-width: 340px;
+      max-width: 21.25rem;
       width: 100%;
       height: 530px;
       border-radius: 20px;
